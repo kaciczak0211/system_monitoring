@@ -1,0 +1,12 @@
+.git
+.gitignore
+.venv
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+README.md
+docker-compose.yml
+prometheus.yml
